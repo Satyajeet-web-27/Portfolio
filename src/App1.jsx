@@ -67,8 +67,9 @@ const PORTFOLIO_DATA = {
     email: "roysatyajeet11@hmail.com",
     github: "https://github.com",
     linkedin: "https://linkedin.com",
-    // avatarUrl: "image_34165f.jpg",
-    avatarUrl: "src/assets/Avter.png",
+    avatarUrl:
+      "https://github.com/Satyajeet-web-27/Portfolio/blob/main/src/assets/Avter.png?raw=true",
+    // avatarUrl: "src/assets/Avter.png",
     status: "Open for Collaborations & Research",
   },
 
